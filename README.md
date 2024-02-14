@@ -18,10 +18,22 @@ if n.startswith(**'1BY8GQb'**):
 
 # Usage
 
-> pip install bitcoin
+```
+git clone https://github.com/bitpresident/puzzleprefix
+```
+```
+pip install bitcoin
+```
+```
+cd puzzleprefix
+```
+```
+python puzzle66.py
+```
 
+# Donations
 
-> cd puzzleprefix
-> 
-> python puzzle66.py
-
+If this particular functionality made your life easier you can support coffee consumption in BTC
+```
+bc1q0t7zkf03ksl9eprq55a0n30pjgacj7frzywgfs
+```
