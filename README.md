@@ -15,3 +15,13 @@ high = **0x7ffffffffffffffff**
 Don't forget to change the address prefix:
 
 if n.startswith(**'1BY8GQb'**):
+
+# Usage
+
+> pip install bitcoin
+
+
+> cd puzzleprefix
+> 
+> python puzzle66.py
+
