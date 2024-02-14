@@ -8,13 +8,13 @@ The private keys are converted into their respective public keys to address. If 
 
 And also, you can change the range of the puzzle inside the script. Example:
 
-low  = **0x40000000000000000**
+> low  = **0x40000000000000000**
 
-high = **0x7ffffffffffffffff**
+> high = **0x7ffffffffffffffff**
 
 Don't forget to change the address prefix:
 
-if n.startswith(**'1BY8GQb'**):
+> if n.startswith(**'1BY8GQb'**):
 
 # Usage
 
